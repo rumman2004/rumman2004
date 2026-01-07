@@ -1,9 +1,8 @@
 # Hi there, I'm Rumman Ahmed 👋
 
 🚀 Full-Stack Developer | Building Modern Web Applications
-
 🎓 Final Year BCA Student | Passionate about Web & Mobile Development  
-📍 Haryana, India  
+📍 Assam, India  
 💼 Creating innovative solutions with code
 
 ---
