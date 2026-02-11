@@ -72,7 +72,6 @@
 <img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Railway-black?style=for-the-badge&logo=railway&logoColor=white"/>
 <img src="https://img.shields.io/badge/Render-black?style=for-the-badge&logo=render&logoColor=white"/>
-<img src="https://img.shields.io/badge/Netlify-black?style=for-the-badge&logo=netlify&logoColor=white"/>
 </p>
 
 <hr>
