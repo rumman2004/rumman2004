@@ -7,9 +7,8 @@
 
 <a href="https://rumman-portfolio-ryuu.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logoColor=white" />
-</a>
-
-<a href="https://drive.google.com/file/d/1yfnHqjw8IbVnZ_2lmV2T7Y4aqk6ZkVY7/view?usp=sharing">
+</a> <br>
+<a href="https://drive.google.com/file/d/1yfnHqjw8IbVnZ_2lmV2T7Y4aqk6ZkVY7/view?usp=sharing" target="blank">
   <img src="https://img.shields.io/badge/Resume-black?style=for-the-badge&logoColor=white" />
 </a>
 <hr>
